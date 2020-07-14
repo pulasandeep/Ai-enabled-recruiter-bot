@@ -1,4 +1,8 @@
 # AI-Recruiter-Bot
+
+Here's the link for working video sample.
+https://youtu.be/x06QnaDWT6Y
+
 A AI based project for AI based recruitment, in colaboration with IBM INDIA, and smartinternz
 
 
